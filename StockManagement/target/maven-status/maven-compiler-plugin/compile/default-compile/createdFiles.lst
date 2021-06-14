@@ -1,0 +1,9 @@
+com\praveen\stockmanagement\repository\StockRepository.class
+com\praveen\stockmanagement\services\Impl\StockServiceImpl.class
+com\praveen\stockmanagement\controllers\StockController.class
+com\praveen\stockmanagement\domains\StockDto.class
+com\praveen\stockmanagement\services\StockService.class
+com\praveen\stockmanagement\domains\Stock.class
+com\praveen\stockmanagement\services\CrudService.class
+com\praveen\stockmanagement\services\test.class
+com\praveen\stockmanagement\controllers\IndexController.class
